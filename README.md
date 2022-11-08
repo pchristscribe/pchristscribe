@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pchristscribe
 - 👀 I’m interested in ... Python 
-- 🌱 I’m currently learning ...& Django
+- 🌱 I’m currently learning ... Django
 - 💞️ I’m looking to collaborate on ... CRUD apps
 - 📫 How to reach me ... pchristopherschreiber@gmail.com
 
