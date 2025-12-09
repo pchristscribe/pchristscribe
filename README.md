@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pchristscribe
-- 👀 I’m interested in ... Python 
-- 🌱 I’m currently learning ... Django
-- 💞️ I’m looking to collaborate on ... CRUD apps
+- 👀 I’m interested in ... Python, Javascript, Rust
+- 🌱 I’m currently learning ... Vue, Nuxt.js, Testing abd Validation using regex
 - 📫 How to reach me ... pchristopherschreiber@gmail.com
 
 <!---
